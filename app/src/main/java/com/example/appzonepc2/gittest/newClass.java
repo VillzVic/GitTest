@@ -5,4 +5,5 @@ package com.example.appzonepc2.gittest;
  */
 
 public class newClass {
+    int i = 1;
 }
